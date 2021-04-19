@@ -1,3 +1,5 @@
+⚠️ This repository has been deprecated in favor of [**`price-feed-examples`**](https://github.com/stampery-labs/witnet-price-feeds-examples) repository.
+
 # witnet-pricefeed-krw-example
 This is an example of a decentralized price-feed retrieving the price of the KRW with respect to BTC and USD. The smart contract utilizes the Witnet DON to retrieve the data from 8 different sources in both cases. These sources are:
 
